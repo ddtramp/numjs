@@ -14,6 +14,11 @@ __NumJs__ is licensed under the [MIT license](https://github.com/nicolaspanel/nu
 
 __[See this jsfiddle](https://jsfiddle.net/nicolaspanel/047gwg0q/)__ for a concrete example of how to use the library to manipulate images in the browser.
 
+## !!!NOTICE
+
+_DO NOT DELETE THIS REPOSITORY, SOME PROJECT OR PRODUCT USE THIS REPO;_
+
+
 ## Installation
 
 ### on node.js
